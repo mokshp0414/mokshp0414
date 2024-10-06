@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, i'm Moksh! 👋 
+I'm an aspiring software engineer based in Los Angeles with a passion for building efficient, user-friendly applications. I love solving problems through code and continuously learning about new technologies and approaches.
+
+- 🔭 I’m currently working on my Bachelors Degree education in Computer Science.
+- 🌱 I’m currently finishing my upper division computer science classes and working on projects
+- 🤔 I’m looking for help with internships and opportunities to grow my experience in software development.
+- ⚡ Fun fact: I'm a car enthusiast and love traveling the world!
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: mokshcompsci@gmail.com
 <!--
 **mokshp0414/mokshp0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
